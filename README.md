@@ -1,24 +1,41 @@
 Description
-The edu_meeting_website project is a web application designed to facilitate educational meetings online. It provides features for scheduling, joining, and managing virtual meetings, tailored specifically for academic institutions.
+This is an educational HTML CSS template provided by TemplateMo website. This template is built using Bootstrap v5.1.3 layout.
 
 Features
-User Registration and Authentication: Secure user registration and login system.
-Meeting Scheduling: Registered users can schedule meetings with details like date, time, and topic.
-Meeting Joining: Join scheduled meetings through unique meeting links or codes.
-User Roles: Roles like admin, teacher, and student with specific permissions.
-Dashboard: Dashboard for users to manage their scheduled meetings and attendance.
-Notifications: Email or in-app notifications for upcoming meetings.
-Interactive UI: User-friendly interface for seamless navigation and operation.
+Responsive design
+Bootstrap v5.1.3 layout
+Owl carousel for services and courses sections
+Lightbox for images
+Tabs and accordions for FAQs and apply now sections
+Video background for main banner section
+Slick slider for testimonials section
+Custom JavaScript for smooth scrolling and section navigation
 
 
-Technologies Used
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Backend: Python, Flask
-Database: MySQL
-Additional Tools: Flask-SQLAlchemy, Flask-Login, Jinja2 templates
+Files and Folders
+index.html: The main HTML file for the template
+assets/: Folder containing CSS, JavaScript, and image files
+css/: Folder containing CSS files
+js/: Folder containing JavaScript files
+images/: Folder containing image files
+vendor/: Folder containing third-party libraries and frameworks
+jquery/: Folder containing jQuery library
+bootstrap/: Folder containing Bootstrap framework
 
-Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
+
+How to Use
+Download the template and extract the files to a folder on your local machine.
+Open the index.html file in a web browser to view the template.
+Customize the template by modifying the HTML, CSS, and JavaScript files as needed.
+
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This template is licensed under the Creative Commons Attribution 4.0 International License. You are free to use and modify the template for personal or commercial use.
+
+Credits
+Template design and development: TemplateMo
+Bootstrap framework: Bootstrap team
+jQuery library: jQuery team
+Owl carousel: Owl carousel team
+Lightbox: Lightbox team
+Slick slider: Slick slider team
